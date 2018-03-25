@@ -1,0 +1,10 @@
+# Site settings
+title: Valentin Rothberg's Blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+twitter_username: vlntnrthbrg
+github_username:  vrothberg
+safe: true
+
+# Build settings
+markdown: kramdown
+permalink: pretty

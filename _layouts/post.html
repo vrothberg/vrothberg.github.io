@@ -1,0 +1,28 @@
+---
+layout: base
+---
+
+<section id="wrapper" class="group">
+<header id="header">
+<a id="title" href="{{ site.baseurl }}">
+	Thoughts about computers
+</a>
+</header>
+
+<article class="post">
+	<header>
+		<h1>{{ page.title }}</h1>
+    {% if page.subtitle|length %}
+		<h2 class="headline">{{ page.subtitle }} </h2>
+    {% endif %}
+	  <h4> Posted on {{ page.date | date: "%b %d %Y" }}</h4>
+	</header>
+	<section id="post-body">
+		{{ content }}
+	</section>
+
+  <footer id="footer">
+  	<p class="small">For less constructed thoughts, follow me on Twitter: <a href="http://www.twitter.com/vlntnrthbrg">@vlntnrthbrg</a>.</p>
+  </footer>
+</article>
+</section> <!--wrapper-->

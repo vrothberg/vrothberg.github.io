@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valentin Rothberg's Blog</title>
+    <description></description>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 25 Mar 2018 02:57:50 -0500</pubDate>
+    <lastBuildDate>Sun, 25 Mar 2018 02:57:50 -0500</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Init Blog</title>
+        <description>&lt;p&gt;For quite some time I was thinking about starting to blog about things related to work (containers and Kubernetes at SUSE/openSUSE and research before).  No worries, this won’t be a high-frequency blog, but some things are worth sharing.  When hitting a bug or being stuck, I ask my search engine of choice for help in most cases before starting burning time.  This blog’s purpose is to contribute things back to the world-wide web and to hopefully help people to get things done rather than wasting time on things others might already have went through.&lt;/p&gt;
+
+&lt;p&gt;I chose to run the blog on Github Pages as I do not want to maintain a web server.  In comparison to other offerings, there is no advertisement on Github Pages, the code can be re-used and I don’t have to click through complex blogging engines.  The blog bases on Mathias Köhnke’s &lt;a href=&quot;https://github.com/mkoehnke/jekyll-simple-blog&quot;&gt;Jekyll Simple Blog&lt;/a&gt;, which in turn uses &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; for the static website generation.  Jekyll is comparativey easy to use, supports &lt;a href=&quot;https://en.wikipedia.org/wiki/Markdown&quot;&gt;markdown&lt;/a&gt;, and allows me to get things done very quickly.  My knowledge about web programming is very limited, so I appreciat the current setup a lot.  Writing a new blog post boilds down to writing a new markdown file and running Jekyll in the official &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll/jekyll&lt;/code&gt; container.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Mar 2018 00:00:00 -0600</pubDate>
+        <link>http://0.0.0.0:4000/2018/03/05/init-blog/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2018/03/05/init-blog/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

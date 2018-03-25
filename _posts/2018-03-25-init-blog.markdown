@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Init Blog"
+subtitle: "Hello World!"
+date:   2018-03-05
+---
+
+For quite some time I was thinking about starting to blog about things related to work (containers and Kubernetes at SUSE/openSUSE and research before).  No worries, this won't be a high-frequency blog, but some things are worth sharing.  When hitting a bug or being stuck, I ask my search engine of choice for help in most cases before starting burning time.  This blog's purpose is to contribute things back to the world-wide web and to hopefully help people to get things done rather than wasting time on things others might already have went through.
+
+I chose to run the blog on Github Pages as I do not want to maintain a web server.  In comparison to other offerings, there is no advertisement on Github Pages, the code can be re-used and I don't have to click through complex blogging engines.  The blog bases on Mathias Köhnke's [Jekyll Simple Blog](https://github.com/mkoehnke/jekyll-simple-blog), which in turn uses [Jekyll](https://jekyllrb.com/) for the static website generation.  Jekyll is comparativey easy to use, supports [markdown](https://en.wikipedia.org/wiki/Markdown), and allows me to get things done very quickly.  My knowledge about web programming is very limited, so I appreciat the current setup a lot.  Writing a new blog post boilds down to writing a new markdown file and running Jekyll in the official `jekyll/jekyll` container.
