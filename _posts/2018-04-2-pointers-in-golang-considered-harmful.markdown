@@ -30,7 +30,7 @@ type foo struct {
 }
 
 func main() {
-	foos := []foo{ foo{ i: 0 }, foo{ i: 1 }, foo{ i: 2 }, foo{ i: 3 }}
+	foos := []foo{foo{i: 0}, foo{i: 1}, foo{i: 2}, foo{i: 3}}
 	ptrs := []*int{}
 	for i, x := range foos {
 		fmt.Printf("foo %d: %+v\n", i, x)
