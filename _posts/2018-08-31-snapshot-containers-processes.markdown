@@ -28,7 +28,8 @@ The [psgo library](https://github.com/containers/psgo) is now a community projec
 - **ppid**: for the parent process ID
 - **pcpu**: for the CPU consumption of the process
 - **etime**: for the elapsed time since process creation
-- **tty**: for the used TTY device, `time` for the cumulative CPU time
+- **tty**: for the used TTY device
+- **time**: for the cumulative CPU time
 - **args**: for the executed program including its arguments
 
 I do not want to be too redundant, so please refer to [github.com/containers/psgo](https://github.com/containers/psgo) to watch the details of `psgo`'s API and the complete set of descriptors.  However, there is a number of descriptors that I want to highlight in the context of containers:
