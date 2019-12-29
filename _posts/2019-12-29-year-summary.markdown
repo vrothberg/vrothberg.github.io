@@ -10,7 +10,7 @@ I did not take time this year to write on my personal blog, but I have not been 
 
 # Articles
 
-* _Linux-Container einfach gemacht_ (German) on [heise.de/developers](https://heise.de/developers)
+* _Linux-Container einfach gemacht_ (German) on [heise.de/developer](https://heise.de/developers)
   * [Part 1](https://m.heise.de/developer/artikel/Podman-Linux-Container-einfach-gemacht-Teil-1-4329067.html?seite=all) introduces [Podman](https://podman.io).
   * [Part 2](https://m.heise.de/developer/artikel/Podman-Linux-Container-einfach-gemacht-Teil-2-4429630.html?seite=all) explains the building blocks of a Linux container and some security mechanisms.
   * [Part 3](https://m.heise.de/developer/artikel/Podman-Linux-Container-einfach-gemacht-Teil-3-4476343.html?seite=all) shows advanced use cases of Podman.
