@@ -6,7 +6,7 @@ date:   2019-12-29
 tags: containers kubernetes systemd redhat podman buildah skopeo cri-o
 ---
 
-I did not take the time this year to write on my personal blog, but I have not been lazy.  In fact, I wrote a couple of articles (on blogs that actual reach people) and gave several talks that I want to share here for the record:
+I did not take the time this year to write on my personal blog, but I have not been lazy.  In fact, I wrote a couple of articles (on blogs that actually reach people) and gave several talks that I want to share here for the record:
 
 # Articles
 
